@@ -21,3 +21,13 @@ QBU Addon - Quick Blender Utilities Addon with tweaks for making your workflow m
 4. [Position Randomize](POSITION_RANDOMIZE.md)
 5. [Mesh Tools](MESH_TOOLS.md)
 6. [Release Log](RELEASE_LOG.md)
+
+### Instalation
+
+- Go in the Blender Preferences > Add-ons and click on Install From File
+- Select the QBU .zip archive and validate
+- Activate it
+
+### Feedback and Support
+
+For responses and inquiries, ideas - vladyslav.illustrator@gmail.com
