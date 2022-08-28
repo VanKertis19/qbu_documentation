@@ -1,5 +1,7 @@
 # Release Log
 
+[**Return to Home**](README.md)
+
 ## 1.4.0
 	- Update icons on buttons
 	- Add delete function for pattern selector
