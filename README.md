@@ -22,6 +22,10 @@ QBU Addon - Quick Blender Utilities Addon with tweaks for making your workflow m
 5. [Mesh Tools](MESH_TOOLS.md)
 6. [Release Log](RELEASE_LOG.md)
 
+### Requirements
+
+Blender 3.0+
+
 ### Instalation
 
 - Go in the Blender Preferences > Add-ons and click on Install From File
