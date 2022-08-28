@@ -1,5 +1,5 @@
 # Documentation for Quick Blender Utilities Addon (QBU)
-## Version 1.4.0
+## <p align="right">Version 1.4.0</p>
 
 QBU Addon - Quick Blender Utilities Addon with tweaks for making your workflow more easier.
 
