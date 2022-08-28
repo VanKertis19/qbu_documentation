@@ -3,6 +3,8 @@
 
 QBU Addon - Quick Blender Utilities Addon with tweaks for making your workflow more easier.
 
+![QBU Cover](/media/main_cover.png)
+
 ### Main features:
 
 - Pattern Selection. You can select and hide separately objects by the name pattern. Default value is "UCX*"
