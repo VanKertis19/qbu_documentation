@@ -38,4 +38,15 @@ Module helps to set up to 3 values of bevel offset to switch between them while 
 
 ### Edges Functions
 
+**Mark Sharp**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Sharp mark is used by the split normals and the Edge Split modifier, which are part of the smoothing or customized shading techniques. As seams, it is a property of edges, and these operators set or unset it for selected ones.
+
+
+**Mark Seam**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These operators set or unset this mark for selected edges. Seams are a way to create separations, “islands”, in UV maps.
+
 ### Set Face Strength
+
+Use the module to pick one of Weak, Medium, or Strong. Then this tool changes the Face Strength of currently selected faces to the chosen face strength.
