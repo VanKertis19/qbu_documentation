@@ -4,7 +4,7 @@
 
 **Mode:** Edit Mode
 
-### Contents:
+## Contents:
 
 1. [Bevel](MESH_TOOLS.md#bevel)
 2. [Edges Functions](MESH_TOOLS.md#edges-functions)
@@ -12,7 +12,7 @@
 
 ![Mesh Tools Cover](/media/mesh_tools.png)
 
-### Bevel
+## Bevel
 
 Module helps to set up to 3 values of bevel offset to switch between them while working on the asset.
 
@@ -36,7 +36,7 @@ Module helps to set up to 3 values of bevel offset to switch between them while 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply the value of selected offset to selected edges of vertices.
 
 
-### Edges Functions
+## Edges Functions
 
 **Mark Sharp**
 
@@ -47,6 +47,6 @@ Module helps to set up to 3 values of bevel offset to switch between them while 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These operators set or unset this mark for selected edges. Seams are a way to create separations, “islands”, in UV maps.
 
-### Set Face Strength
+## Set Face Strength
 
 Use the module to pick one of Weak, Medium, or Strong. Then this tool changes the Face Strength of currently selected faces to the chosen face strength.
