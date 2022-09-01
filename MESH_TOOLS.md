@@ -2,7 +2,7 @@
 
 [**Return to Home**](README.md)
 
-<font color="orange">**Mode:** Edit Mode</font>
+**Mode:** Edit Mode
 
 ### Contents:
 
