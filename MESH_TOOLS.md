@@ -1,6 +1,4 @@
-# Mesh Tools
-
-### <p align="right">Feature Added in: v1.4.0</p>
+# Mesh Tools <sub><p align="right">Feature Added in: v1.4.0</p><sub>
 
 [**Return to Home**](README.md)
 
