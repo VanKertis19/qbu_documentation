@@ -17,16 +17,16 @@
 Module helps to set up to 3 values of bevel offset to switch between them while working on the asset.
 
 **Affect**
-	The choice between edges and vertices to be affected by the bevel.
+   The choice between edges and vertices to be affected by the bevel.
 
 **Use Offset**
-	The choice between 3 values of the bevel. The selected option will be used after pressing "Bevel" button.
+   The choice between 3 values of the bevel. The selected option will be used after pressing "Bevel" button.
 
 **Offset #1, Offset #2, Offset #3**
-	Three values of the bevel.
+   Three values of the bevel.
 
 **Button 'Bevel'**
-	Apply the value of selected offset to selected edges of vertices.
+   Apply the value of selected offset to selected edges of vertices.
 
 ### Edges Functions
 
