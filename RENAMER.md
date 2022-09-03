@@ -38,4 +38,4 @@ This module helps to rename objects in a batch according to the formula.
 
 **Presets**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presets of the renamer settings. Also new presets can be added by pressing "+".
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presets of the renamer settings. Also new presets can be added by pressing "+". There are 4 presets: Collision, Static Mesh, Low Poly, High Poly.
