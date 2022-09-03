@@ -2,6 +2,8 @@
 
 [**Return to Home**](README.md)
 
+**Mode:** Object Mode
+
 ![Renamer Cover](/media/renamer.png)
 
 This module helps to rename objects in a batch according to the formula.
