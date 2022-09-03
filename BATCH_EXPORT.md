@@ -77,7 +77,60 @@ This module helps to export objects as .fbx files. There are two main types of b
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the target folder.
 
 
+**Export**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply all settings of the module and make batch export.
+
 
 ## Collections Batch Export
 
 ![Batch Export Cover](/media/batch_export_collection.png)
+
+**Export Children**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Export objects with all linked and visible children. You don't need to select children, only the target object. All children will be packed in .fbx of the target object. Suitable for export objects with linked collisions (as children).
+
+
+**Apply Modifiers**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply all modifiers of the exported objects.
+
+
+**Apply Transforms**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply rotation and scale transforms of exported objects. Location is not affected.
+
+
+**Object Type**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Export only geometry objects or also empties (sockets for UE).
+
+
+**Smoothing**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Export smoothing information. There are three variants: normals only, face, edge.
+
+
+**Export Type**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Export type - [Standard](BATCH_EXPORT.md#standard-batch-export) or [Collections](BATCH_EXPORT.md#collections-batch-export).
+
+
+**#1 / #2 / #3 / #4 / #5**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turn on up to 5 collections to export. All visible objects of the selected collection will be exported to the target folder. One collection can be exported simultaneously in few folders.
+
+
+**Accept**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose target folder from the Blender folder manager.
+
+
+**Open Folder**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the target folder.
+
+
+**Export Collections**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply all settings of the module and make batch export of collections.
