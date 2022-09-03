@@ -2,6 +2,8 @@
 
 [**Return to Home**](README.md)
 
+**Mode:** Object Mode
+
 ![Position Randomize Cover](/media/position_randomizer.png)
 
 Module helps to randomize positions of the selected meshes. Positions are the pivots of the selected objects.
@@ -9,6 +11,7 @@ Module helps to randomize positions of the selected meshes. Positions are the pi
 **Axis**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose on of the axis: X, Y, Z. Randomization will occur along this axis.
+
 
 **Randomize**
 
