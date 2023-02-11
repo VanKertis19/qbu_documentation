@@ -1,4 +1,4 @@
-# Asset Library
+# Assets Library
 
 [**Return to Home**](README.md)
 
