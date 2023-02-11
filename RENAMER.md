@@ -43,11 +43,11 @@ This module helps to rename objects in a batch according to the formula.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presets of the renamer settings. Also new presets can be added by pressing "+". There are 4 presets: Collision, Static Mesh, Low Poly, High Poly.
 
 
-**Rename Children**
+**Rename Children** ([v1.5.0](RELEASE_LOG.md#150))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rename all children of the selected object with specified name.
 
 
-**Replace Base Name**
+**Replace Base Name** ([v1.5.0](RELEASE_LOG.md#150))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use base name of the selected object to remane children.
