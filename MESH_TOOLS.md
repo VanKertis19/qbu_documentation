@@ -47,6 +47,11 @@ Module helps to set up to 3 values of bevel offset to switch between them while 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These operators set or unset this mark for selected edges. Seams are a way to create separations, “islands”, in UV maps.
 
+
+**Clear All**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clear all sharp and seam edges in the selected edges.
+
 ## Set Face Strength
 
 Use the module to pick one of Weak, Medium, or Strong. Then this tool changes the Face Strength of currently selected faces to the chosen face strength.
