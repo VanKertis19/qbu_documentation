@@ -48,7 +48,7 @@ Module helps to set up to 3 values of bevel offset to switch between them while 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These operators set or unset this mark for selected edges. Seams are a way to create separations, “islands”, in UV maps.
 
 
-**Clear All**
+**Clear All** ([v1.5.0](RELEASE_LOG.md#150))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clear all sharp and seam edges in the selected edges.
 
