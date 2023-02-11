@@ -2,6 +2,20 @@
 
 [**Return to Home**](README.md)
 
+## 1.5.0
+	- Add possibility to clear all sharp and seam edges
+	- Add Assets Library module which help to save objects and spawn anytime
+	- Add collection separator in pattern selector to separate objects and childrens into different collections with saving of parent-children connection
+
+	Fixes:
+	- Add more comments in code
+
+## 1.4.1
+	- Add children renamer function
+
+	Fixes:
+	- Fix "unable to get Python class for RNA struct"
+
 ## 1.4.0
 	- Update icons on buttons
 	- Add delete function for pattern selector
