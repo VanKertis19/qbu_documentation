@@ -4,7 +4,7 @@
 
 **Mode:** Object Mode
 
-![Asset Library Cover](/media/renamer.png)
+![Asset Library Cover](/media/assets_library.png)
 
 This module helps to save objects to library and spawn it anytime in certain position with rotation.
 
@@ -20,7 +20,7 @@ This module helps to save objects to library and spawn it anytime in certain pos
 
 **Assign**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accign selected object to the list item.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assign selected object to the list item.
 
 
 **Spawn Button**
